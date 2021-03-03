@@ -38,8 +38,6 @@ junit*.properties
 rb/.yardoc
 .tm_properties
 maven/*/src
-maven/target
-maven/*/target
 maven/.idea
 maven/*.iml
 maven/*/*.iml
@@ -95,7 +93,6 @@ Gemfile.lock
 /rb/.idea
 .idea
 *.iml
-target/
 .idea/sonarIssues.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/inspectionProfiles/Project_Default.xml
